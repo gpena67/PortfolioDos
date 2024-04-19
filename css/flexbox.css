@@ -1,0 +1,19 @@
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section_class{
+    isplay: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
